@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>commentClass</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>TopLevel</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/*!
+@class &lt;#Class Name#&gt;
+@brief: &lt;#Use it to write a short description about the method, property, class, file, struct, or enum you’re documenting. No line breaks are allowed.#&gt;
+@discussion: &lt;#Use it to write a thorough description. You can add line breaks if needed.#&gt;
+ */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>661195CD-7C0E-41C3-A9BF-1D3A0D6A81D6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A documentation for the class.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Class Documentation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

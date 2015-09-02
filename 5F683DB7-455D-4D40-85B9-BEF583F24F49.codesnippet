@@ -3,25 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lazyInst</string>
+	<string>call</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (&lt;#type#&gt; *)&lt;#name#&gt;
-{
-    if (!_&lt;#name#&gt;) {
-        _&lt;#name#&gt; = [[&lt;#type#&gt; alloc] init];
-    }
-    return _&lt;#name#&gt;;
-}</string>
+	<string>[&lt;#name#&gt; &lt;#method name#&gt;:&lt;#parameter#&gt;];
+ &lt;#code#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E4FA0975-C6EA-4C0E-BDFB-479C84ADB79C</string>
+	<string>5F683DB7-455D-4D40-85B9-BEF583F24F49</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A call to a method</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazy Instantiation</string>
+	<string>Method Call</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

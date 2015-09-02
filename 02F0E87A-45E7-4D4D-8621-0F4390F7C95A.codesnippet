@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lazyInst</string>
+	<string>customLazyInstantiation</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
@@ -12,16 +12,16 @@
 	<string>- (&lt;#type#&gt; *)&lt;#name#&gt;
 {
     if (!_&lt;#name#&gt;) {
-        _&lt;#name#&gt; = [[&lt;#type#&gt; alloc] init];
+        _&lt;#name#&gt; = [[&lt;#type#&gt; alloc] initWith&lt;#Custom InitializationCode#&gt;)];
     }
     return _&lt;#name#&gt;;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E4FA0975-C6EA-4C0E-BDFB-479C84ADB79C</string>
+	<string>02F0E87A-45E7-4D4D-8621-0F4390F7C95A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Lazy Instantiation</string>
+	<string>Lazy Custom Instantiation</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

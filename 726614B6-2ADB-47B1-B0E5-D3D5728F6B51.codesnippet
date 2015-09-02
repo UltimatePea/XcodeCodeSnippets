@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>commentFunc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>Preprocessor</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>/*!
+@brief: &lt;#Use it to write a short description about the method, property, class, file, struct, or enum you’re documenting. No line breaks are allowed.#&gt;
+@discussion: &lt;#Use it to write a thorough description. You can add line breaks if needed.#&gt;
+@param: &lt;#With this you can describe a parameter of a method or function. You can have multiple such tags.#&gt;
+@return: &lt;#Use it to specify the return value of a method or function.#&gt;
+ */</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>726614B6-2ADB-47B1-B0E5-D3D5728F6B51</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>A typical documentation for the method.</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Method Documentation</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
